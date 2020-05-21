@@ -6,4 +6,8 @@ Creating a new branch is quick.
 
 创建一个分支b
 
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> featurel
