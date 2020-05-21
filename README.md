@@ -17,3 +17,6 @@ Creating a new branch is quick AND simple.
 
 
 bug修复工作  git status  git status  git status
+
+
+正在做的工作，不提交
